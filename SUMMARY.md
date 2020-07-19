@@ -10,4 +10,5 @@
   5. [第五节: 在docker中使用composer](Trial/C5.md)
   6. [第六节: docker中使用定时任务](Trial/C6.md)
   7. [第七节: docker中使用环境变量](Trial/C7.md)
+  8. [第八节:安装xdebug扩展](Trial/C8.md)
 
